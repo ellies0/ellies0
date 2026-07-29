@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name's Ellie. I'm a young junior developer.
+
+I'm currently working on expanding my skill set. 
+I'm currently learning Java. 
+Fun fact: I LOVE axolotls! ꒰(˶• ᴗ •˶)꒱
+
 <!--
 **ellies0/ellies0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
