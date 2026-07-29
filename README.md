@@ -3,7 +3,9 @@
 My name's Ellie. I'm a young junior developer.
 
 I'm currently working on expanding my skill set. 
+
 I'm currently learning Java. 
+
 Fun fact: I LOVE axolotls! ꒰(˶• ᴗ •˶)꒱
 
 <!--
